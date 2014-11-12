@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidSampleState</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_transfer_data">TransferDataActivity</string>
+    <string name="ageText">Age</string>
+    <string name="nameText">Name</string>
+    <string name="phraseText">Phrase</string>
+    <string name="stuffText">Stuff</string>
+
+</resources>
