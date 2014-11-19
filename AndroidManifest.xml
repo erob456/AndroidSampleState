@@ -9,11 +9,11 @@
         android:targetSdkVersion="19" />
 
     <application
+        android:name="ctec.sampleandroidstateproject.model.AndroidAppState" 
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme" 
-        android:name="ctec.sampleandroidstateproject.model.AndroidAppState" >
+        android:theme="@style/AppTheme">
         <activity
             android:name=".StateActivity"
             android:label="@string/app_name" >
